@@ -1,16 +1,28 @@
-## Hi there 👋
+# Welcome to My GitHub Profile 👋
 
-<!--
-**sn-0py/sn-0py** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I’m a **System Administrator** exploring **Linux**, **cloud solutions**, and **DevOps tools**. My goal is to expand my expertise and share useful resources.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Interests
+- **Linux Administration**: Automation, optimization, and security.
+- **Cloud Platforms**: AWS, Azure, and Google Cloud experiments.
+- **DevOps**: CI/CD, Docker, Kubernetes, and infrastructure as code.
+
+---
+
+## Current Focus
+- Sharing **scripts** and **guides** for system admins.
+- Documenting my journey in **cloud and DevOps**.
+- Building tools for **automation and monitoring**.
+
+---
+
+## Let’s Connect
+- **GitHub**: [My Profile](https://github.com/sn-0py)
+- **LinkedIn**: [My LinkedIn](https://www.linkedin.com/in/sateesh-s-10ba20191/)
+
+---
+
+⭐ Star my repositories if they help you!
